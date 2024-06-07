@@ -13,12 +13,12 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
+- [Bourbon Brown Butter Spice Cookies](Desserts/browned-butter-bourbon-cookies.md)
 
 ### Drinks
 - [Water](Drinks/water.md)
 
 ## Contributing Authors
 
-- Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Naomi Alterman, with her grandma-approved oatmeal cookie recipe and her spicy bourbon cookie recipe.
 - Other User, with a spaghetti recipe
-
