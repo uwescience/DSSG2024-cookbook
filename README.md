@@ -22,6 +22,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
+- [Ice Cream](Desserts/ice-cream.txt)
 - [Birthday Cake Cookies](Desserts/bdaycakecookies.txt)
 - [Groundnut Cake](Desserts/groundnut-cake.md)
 
@@ -31,6 +32,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Contributing Authors
 
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Jihyeon Bae
 - Nora Povejsil, with her tres leches recipe
 - Ryan Avery, with some casserole from somewhere
 - Rebecca Hayes, with an easy Polish recipe for haluski
