@@ -18,11 +18,11 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 
 ### Entrées
 - [Chicken Hollandaise](Entrees/chicken-hollandaise.txt)
- - [Enchilada Casserole](Entrees/enchilada_casserole.md)
-- [Haluski](Entrées/recipe.txt)
-- [Mushroom Brisket](Entrées/mushroom-brisket.txt)
+- [Enchilada Casserole](Entrees/enchilada_casserole.md)
+- [Haluski](Entrees/haluski.txt)
+- [Mushroom Brisket](Entrees/mushroom-brisket.txt)
 - [Crispy Tofu Stir Fry](Entrees/crispy-tofu-stir-fry.txt)
-- [Chole (Indian chickpea curry)](Entree/chickpea-recipe.txt)
+- [Chole (Indian chickpea curry)](Entrees/chickpea-recipe.txt)
 
 ### Desserts
 
