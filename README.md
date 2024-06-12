@@ -17,6 +17,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 - Spicy and Sour Shredded Potato
 
 ### Entrées
+- [Chicken Hollandaise](Entrees/chicken-hollandaise.txt)
  - [Enchilada Casserole](Entrees/enchilada_casserole.md)
 - [Haluski](Entrées/recipe.txt)
 - [Mushroom Brisket](Entrées/mushroom-brisket.txt)
@@ -37,6 +38,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 
 - Daniel Vogler
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Curtis Atkisson, with the easiest plain-text recipe I could find on the internet
 - Kiki He, with the spicy and sour shredded potato recipe
 - Jihyeon Bae
 - Nora Povejsil, with her tres leches recipe
