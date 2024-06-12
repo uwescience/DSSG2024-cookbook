@@ -9,6 +9,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ### Appetizers, Sides and Salads
 
 ### Entrées
+ - [Enchilada Casserole](Entrees/enchilada_casserole.md)
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
@@ -19,3 +20,4 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Contributing Authors
 
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Ryan Avery, with some casserole from somewhere
