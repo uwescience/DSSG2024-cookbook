@@ -18,6 +18,8 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 - [Chole (Indian chickpea curry)](Entree/chickpea-recipe.txt)
 
 ### Desserts
+- [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
+- [Birthday Cake Cookies](Desserts/bdaycakecookies.txt)
 - [Groundnut Cake](Desserts/groundnut-cake.md)
 
 ### Drinks
@@ -25,5 +27,6 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 
 ## Contributing Authors
 
+- Rebecca Schachtman, with her birthday cake cookie recipe
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe and soup recipe
 - Sakshi Chavan
