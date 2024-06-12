@@ -13,6 +13,8 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ### Breakfast
 - Bread Upma
 
+- Spicy and Sour Shredded Potato
+
 ### Entrées
  - [Enchilada Casserole](Entrees/enchilada_casserole.md)
 - [Haluski](Entrées/recipe.txt)
@@ -21,17 +23,19 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 - [Chole (Indian chickpea curry)](Entree/chickpea-recipe.txt)
 
 ### Desserts
+
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
 - [Ice Cream](Desserts/ice-cream.txt)
 - [Birthday Cake Cookies](Desserts/bdaycakecookies.txt)
 - [Groundnut Cake](Desserts/groundnut-cake.md)
 
 ### Drinks
-- [Water](Drinks/wonjo.md)
+- [Water](Drinks/water.md)
 
 ## Contributing Authors
 
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Kiki He, with the spicy and sour shredded potato recipe
 - Jihyeon Bae
 - Nora Povejsil, with her tres leches recipe
 - Ryan Avery, with some casserole from somewhere
