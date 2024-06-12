@@ -14,6 +14,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 - Bread Upma
 
 ### Entrées
+- [Mushroom Brisket](Entrées/mushroom-brisket.txt)
 - [Crispy Tofu Stir Fry](Entrees/crispy-tofu-stir-fry.txt)
 - [Chole (Indian chickpea curry)](Entree/chickpea-recipe.txt)
 
@@ -27,6 +28,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 
 ## Contributing Authors
 
+- Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Jess Robinson, with her friend Ethan's mushroom "brisket" recipe
 - Rebecca Schachtman, with her birthday cake cookie recipe
-- Naomi Alterman, with her grandma-approved oatmeal cookie recipe and soup recipe
 - Sakshi Chavan
