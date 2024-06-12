@@ -11,6 +11,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 - [Pasta e Fagioli soup](Soups/pasta e fagioli.txt)
 
 ### Entrées
+- [Chole (Indian chickpea curry)](Entree/chickpea-recipe.txt)
 
 ### Desserts
 - [Groundnut Cake](Desserts/groundnut-cake.md)
