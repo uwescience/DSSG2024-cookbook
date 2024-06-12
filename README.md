@@ -12,6 +12,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
+- [Birthday Cake Cookies](Desserts/bdaycakecookies.txt)
 
 ### Drinks
 - [Water](Drinks/water.md)
@@ -19,3 +20,4 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Contributing Authors
 
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Rebecca Schachtman, with her birthday cake cookie recipe
