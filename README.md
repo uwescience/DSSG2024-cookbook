@@ -31,6 +31,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Contributing Authors
 
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Nora Povejsil, with her tres leches recipe
 - Ryan Avery, with some casserole from somewhere
 - Rebecca Hayes, with an easy Polish recipe for haluski
 - Jess Robinson, with her friend Ethan's mushroom "brisket" recipe
