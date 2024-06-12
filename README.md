@@ -7,6 +7,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Table of Contents
 
 ### Appetizers, Sides and Salads
+- [Pasta e Fagioli soup](Soups/pasta e fagioli.txt)
 
 ### Entrées
 
@@ -18,4 +19,4 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 
 ## Contributing Authors
 
-- Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Naomi Alterman, with her grandma-approved oatmeal cookie recipe and soup recipe
