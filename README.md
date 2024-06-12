@@ -9,7 +9,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ### Appetizers, Sides and Salads
 
 ### Entrées
-
+- [Crispy Tofu Stir Fry](Entrees/crispy-tofu-stir-fry.txt)
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
 
