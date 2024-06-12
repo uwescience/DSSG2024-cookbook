@@ -9,6 +9,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ### Appetizers, Sides and Salads
 
 ### Entrées
+- [Haluski](Entrées/recipe.txt)
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
@@ -19,3 +20,4 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Contributing Authors
 
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Rebecca Hayes, with an easy Polish recipe for haluski
