@@ -10,6 +10,9 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 - [Vada Pav](Appetizers, Sides and Salads/vada_pav.txt)
 - [Pasta e Fagioli soup](Soups/pasta e fagioli.txt)
 
+### Breakfast
+- Bread Upma
+
 ### Entrées
 - [Chole (Indian chickpea curry)](Entree/chickpea-recipe.txt)
 
@@ -22,3 +25,4 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Contributing Authors
 
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe and soup recipe
+- Sakshi Chavan
