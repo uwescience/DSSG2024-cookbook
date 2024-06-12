@@ -8,6 +8,9 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 
 ### Appetizers, Sides and Salads
 
+### Breakfast
+- Bread Upma
+
 ### Entrées
 
 ### Desserts
@@ -19,3 +22,4 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Contributing Authors
 
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+-Sakshi Chavan
