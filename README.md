@@ -7,7 +7,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Table of Contents
 
 ### Appetizers, Sides and Salads
-- [Vada Pav](Appetizers, Sides and Salads\vada_pav.txt)
+- [Vada Pav](Appetizers, Sides and Salads/vada_pav.txt)
 
 ### Entrées
 
