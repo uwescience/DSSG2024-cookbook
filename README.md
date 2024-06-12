@@ -7,6 +7,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Table of Contents
 
 ### Appetizers, Sides and Salads
+- [Roast Pepper and Tomato Salad](Salads/daniel-recipe.txt)
 - [Vada Pav](Appetizers, Sides and Salads/vada_pav.txt)
 - [Pasta e Fagioli soup](Soups/pasta e fagioli.txt)
 
@@ -34,6 +35,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 
 ## Contributing Authors
 
+- Daniel Vogler
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
 - Kiki He, with the spicy and sour shredded potato recipe
 - Jihyeon Bae
