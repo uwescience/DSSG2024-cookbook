@@ -12,16 +12,19 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 - [Pasta e Fagioli soup](<Soups/pasta e fagioli.txt>)
 
 ### Breakfast
-- Bread Upma
-- Spicy and Sour Shredded Potato
+- [Bread Upma](<Breakfast/Bread Upma.txt>)
+- [Spicy and Sour Shredded Potato](Breakfast/spicy-and-sour-shredded-potato.txt)
 
 ### Entrées
 - [Chicken Hollandaise](Entrees/chicken-hollandaise.txt)
 - [Enchilada Casserole](Entrees/enchilada_casserole.md)
 - [Haluski](Entrees/haluski.txt)
 - [Mushroom Brisket](Entrees/mushroom-brisket.txt)
+- [Mushroom Chicken Stirfry](Entrees/mushroom-chicken-stirfry.txt)
 - [Crispy Tofu Stir Fry](Entrees/crispy-tofu-stir-fry.txt)
 - [Chole (Indian chickpea curry)](Entrees/chickpea-recipe.txt)
+- [Roast Cauliflower](Entrees/roast-cauliflower.txt)
+- [Jollof](Soups/jollof.txt)
 
 ### Desserts
 
@@ -29,9 +32,11 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 - [Ice Cream](Desserts/ice-cream.txt)
 - [Birthday Cake Cookies](Desserts/bdaycakecookies.txt)
 - [Groundnut Cake](Desserts/groundnut-cake.md)
+- [Tres Leches](Desserts/tres-leches-recipe.txt)
 
 ### Drinks
 - [Water](Drinks/water.md)
+- [Wonjo](Drinks/wonjo.md)
 
 ## Contributing Authors
 
