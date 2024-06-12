@@ -14,6 +14,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 - Bread Upma
 
 ### Entrées
+- [Crispy Tofu Stir Fry](Entrees/crispy-tofu-stir-fry.txt)
 - [Chole (Indian chickpea curry)](Entree/chickpea-recipe.txt)
 
 ### Desserts
