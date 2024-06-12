@@ -8,12 +8,11 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 
 ### Appetizers, Sides and Salads
 - [Roast Pepper and Tomato Salad](Salads/daniel-recipe.txt)
-- [Vada Pav](Appetizers, Sides and Salads/vada_pav.txt)
-- [Pasta e Fagioli soup](Soups/pasta e fagioli.txt)
+- [Vada Pav](Appetizers/vada_pav.txt)
+- [Pasta e Fagioli soup](<Soups/pasta e fagioli.txt>)
 
 ### Breakfast
 - Bread Upma
-
 - Spicy and Sour Shredded Potato
 
 ### Entrées
