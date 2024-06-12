@@ -9,6 +9,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ### Appetizers, Sides and Salads
 
 ### Entrées
+- [Mushroom Brisket](Entrées/mushroom-brisket.txt)
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
@@ -19,3 +20,4 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Contributing Authors
 
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Jess Robinson, with her friend Ethan's mushroom "brisket" recipe
