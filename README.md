@@ -7,6 +7,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Table of Contents
 
 ### Appetizers, Sides and Salads
+[Roast Pepper and Tomato Salad](Salads/daniel-recipe.txt)
 
 ### Entrées
 
@@ -19,3 +20,4 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Contributing Authors
 
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Daniel Vogler
