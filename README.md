@@ -19,4 +19,3 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Contributing Authors
 
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
-- Nora Povejsil, with her tres leches recipe
