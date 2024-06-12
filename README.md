@@ -11,10 +11,10 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ### Entrées
 
 ### Desserts
-- [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
+- [Groundnut Cake](Desserts/groundnut-cake.md)
 
 ### Drinks
-- [Water](Drinks/water.md)
+- [Water](Drinks/wonjo.md)
 
 ## Contributing Authors
 
