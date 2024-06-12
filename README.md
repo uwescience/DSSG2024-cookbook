@@ -9,6 +9,7 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ### Appetizers, Sides and Salads
 
 ### Entrées
+-[AGLIO E OLIO](Entrées/AGLIO%20E%20OLIO.txt)
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
@@ -19,3 +20,5 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 ## Contributing Authors
 
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
+- Manurag Khullar
+
