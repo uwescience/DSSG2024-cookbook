@@ -47,3 +47,5 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 - Jess Robinson, with her friend Ethan's mushroom "brisket" recipe
 - Rebecca Schachtman, with her birthday cake cookie recipe
 - Sakshi Chavan
+
+[![Contributors](https://contrib.rocks/image?repo=uwescience/DSSG2024-cookbook)](https://github.com/uwescience/DSSG2024-cookbook/graphs/contributors)
