@@ -36,14 +36,22 @@ This cookbook is collaboratively authored by the [Student Fellows](https://escie
 
 ## Contributing Authors
 
-- Daniel Vogler
 - Naomi Alterman, with her grandma-approved oatmeal cookie recipe
 - Curtis Atkisson, with the easiest plain-text recipe I could find on the internet
+- Ryan Avery, with some casserole from somewhere
+- Daniel Vogler
 - Kiki He, with the spicy and sour shredded potato recipe
 - Jihyeon Bae
 - Nora Povejsil, with her tres leches recipe
-- Ryan Avery, with some casserole from somewhere
 - Rebecca Hayes, with an easy Polish recipe for haluski
 - Jess Robinson, with her friend Ethan's mushroom "brisket" recipe
 - Rebecca Schachtman, with her birthday cake cookie recipe
 - Sakshi Chavan
+- Apoorva Sheera
+- Manurag Khullar
+- Brooke Kaye
+- Felix Jr Appiah Kubi
+- Himanshu Naidu, with his vada pav appetizer
+- Siman Ning
+- Ishan Saxena
+- Mbye Sallah
